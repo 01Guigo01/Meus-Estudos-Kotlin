@@ -52,18 +52,18 @@ Olá! Meu nome é **Guilherme** ✌️✌️ e estou mergulhando no mundo do des
   - Como e quando criar exceções próprias.
 
 ## Recursos Úteis
-- **Curso Android Master**:  
+- **[Curso Android Master](https://stackmobile.com.br/android-master-2/)**:  
   Um curso completo para aprender Kotlin e desenvolvimento Android.
   
-- **Documentação Oficial do Kotlin**:  
+- **[Documentação Oficial do Kotlin](https://kotlinlang.org/docs/home.html)**:  
   A fonte oficial de conhecimento sobre a linguagem Kotlin.
 
-- **Documentação Oficial do Android**:  
+- **[Documentação Oficial do Android](https://developer.android.com/docs)**:  
   Documentação oficial sobre desenvolvimento Android.
 
 ## Me encontre online
-- **[LinkedIn](#)**  
-- **[GitHub](#)**
+- **[LinkedIn](https://www.linkedin.com/in/guilherme-santos-0954a2274/)**
+- **[GitHub](https://github.com/01Guigo01)**
 
 <div align="center"> 
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJsZ3IxdXRhc3JvODRueW52ZXVzNTJ6eTNvbDV5dmpyYWJldG4zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Day1AgFfMBsrL6BTpF/giphy.webp" /> 
