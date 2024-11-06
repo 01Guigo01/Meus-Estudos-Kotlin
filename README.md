@@ -62,8 +62,8 @@ Olá! Meu nome é **Guilherme** ✌️✌️ e estou mergulhando no mundo do des
   Documentação oficial sobre desenvolvimento Android.
 
 ## Me encontre online
-- **[LinkedIn](https://www.linkedin.com/in/guilherme-santos-0954a2274/)**
-- **[GitHub](https://github.com/01Guigo01)**
+- **[LinkedIn](https://www.linkedin.com/in/guilherme-santos-0954a2274/){:target="_blank"}**
+- **[GitHub](https://github.com/01Guigo01){:target="_blank"}**
 
 <div align="center"> 
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJsZ3IxdXRhc3JvODRueW52ZXVzNTJ6eTNvbDV5dmpyYWJldG4zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Day1AgFfMBsrL6BTpF/giphy.webp" /> 
